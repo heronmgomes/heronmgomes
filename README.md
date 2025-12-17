@@ -10,9 +10,10 @@
 
 ## 👨‍💻 Sobre mim
 Sou desenvolvedor em formação, focado em criar soluções práticas e funcionais.
-Uso o GitHub para registrar minha evolução, estudos e projetos reais.
+Utilizo o GitHub para registrar minha evolução, estudos e projetos reais.
 
-🎯 Objetivo: conquistar minha primeira oportunidade como desenvolvedor.
+🎯 **Objetivo:** conquistar minha primeira oportunidade como  
+**Desenvolvedor Júnior / Estagiário**.
 
 ---
 
@@ -21,13 +22,18 @@ Uso o GitHub para registrar minha evolução, estudos e projetos reais.
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
-## 📂 Projetos
-🔹 Meus projetos estão organizados nos repositórios  
-🔹 Em breve sites completos publicados 🚧
+## 📂 Projeto em destaque
+### 🎮 Buscador de Jogos FPS
+Aplicação web desenvolvida com **HTML, CSS e JavaScript**, com busca dinâmica,
+layout responsivo e deploy via **GitHub Pages**.
+
+🔗 **Acesse o projeto:**  
+👉 https://heronmgomes.github.io/jogos-de-fps/
 
 ---
 
@@ -37,3 +43,4 @@ Uso o GitHub para registrar minha evolução, estudos e projetos reais.
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
+
