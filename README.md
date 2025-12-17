@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Heron!
 
-<!--
-**heronmgomes/heronmgomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor formado, desde julho de 2025 apaixonado por tecnologia  
+🚀 Focado em desenvolvimento web e evolução constante  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mim
+Sou desenvolvedor formado, com foco em criar soluções práticas e funcionais.
+Utilizo este espaço para publicar meus projetos, estudos e evolução na área de tecnologia.
+
+🎯 Objetivo: conquistar minha primeira oportunidade como desenvolvedor.
+
+---
+
+## 🛠️ Tecnologias
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 📂 Projetos em destaque
+🔹 Em breve projetos completos publicados aqui  
+🔹 Acompanhe minha evolução 🚧
+
+---
+
+## 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/heron-mgomes/
